@@ -43,6 +43,8 @@ class MyHomePage extends StatelessWidget {
             // Get.to(() => const Page1());
             // Get.offAll(Page1());
            Get.toNamed('/page-1');
+
+           //rana
           // Get.offAllNamed('/page-1');
           },
           child: const Text('Go to page 1'),
